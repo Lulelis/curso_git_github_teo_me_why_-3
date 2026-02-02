@@ -3,5 +3,9 @@ Cd --> 	Muda de diretório para aonde se está "/" lembrar de substituir as barr
 Pwd --> print working directory  |Caminho absoluto da aonde se está
 Ls -a --> Exibindo arquivos ocultos: arquivos que começam com '.' | '..' pasta mãe desta pasta | '.' --> Referência da pasta para ela mesma, ela
 Mkdir --> Criando uma pasta nova no diretório que se está localizado
+Cat nome_arquivo --> Como visualizar o que tem dentro de um arquivo:
+rm --> Remove o arquivo ou diretório
+Rm -rf .git/ --> Para excluir a pasta	CUIDADO Rm -rf cd..	Destruir todos os arquivos do computador
+
 
 
