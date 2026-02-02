@@ -1,0 +1,7 @@
+Ls -->	 Home do Pc| Lista o que existe dentro do diretório
+Cd --> 	Muda de diretório para aonde se está "/" lembrar de substituir as barras '\' para --> '/'
+Pwd --> print working directory  |Caminho absoluto da aonde se está
+Ls -a --> Exibindo arquivos ocultos: arquivos que começam com '.' | '..' pasta mãe desta pasta | '.' --> Referência da pasta para ela mesma, ela
+Mkdir --> Criando uma pasta nova no diretório que se está localizado
+
+
