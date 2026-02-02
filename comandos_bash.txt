@@ -5,7 +5,9 @@ Ls -a --> Exibindo arquivos ocultos: arquivos que começam com '.' | '..' pasta 
 Mkdir --> Criando uma pasta nova no diretório que se está localizado
 Cat nome_arquivo --> Como visualizar o que tem dentro de um arquivo:
 rm --> Remove o arquivo ou diretório
-Rm -rf .git/ --> Para excluir a pasta	CUIDADO Rm -rf cd..	Destruir todos os arquivos do computador
+Rm -rf .git/ --> Para excluir a pasta 
+Rm -rf cd..	Destruir todos os arquivos do computador | CUIDADO
+Git log --> visualizando os checkpoints
 
 
 
