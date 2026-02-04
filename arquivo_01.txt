@@ -1,1 +1,3 @@
 Nossa mais um arquivo txt vou me perder
+
+Criando uma situação de conflito entre Branchs
