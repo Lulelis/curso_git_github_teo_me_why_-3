@@ -1,4 +1,4 @@
-### Comandos Secundários de GIT:
+### Este arquivo contém Comandos Secundários de GIT adicionais: 
 
 
 1. Git checkout -b nome_branch
@@ -7,3 +7,6 @@ A partir disso, se está na branch secundária. Não mais na Main (Principal)
 
 
 2. Git branch --> Sinaliza qual branch se está trabalhando
+
+
+3. git merge (branch_name) -->  Git merge `secundaria` --> Trazendo as alterações da branch secundária para a main	Nada acontece na Branch secundária ao se fazer o merge
