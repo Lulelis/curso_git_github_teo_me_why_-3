@@ -1,0 +1,1 @@
+Esse arquivo é um teste para visualizar o funcionamento dos caminhos da branchs por branchs secundárias
