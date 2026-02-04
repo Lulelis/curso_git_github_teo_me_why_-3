@@ -1,6 +1,33 @@
-git init  . -> 	         cria um repo git na pasta atual
-git status --> 	         Mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo --> adiciona o arquivo para ser commitado
-git commit -m "ms" -->   faz um commit do que estava para ser commitado  
-git log -->               mostra Todos o histótico de commit 
-Git add comandos_* --> 	  adicionando tanto os arquivos: comamdos_bash e esse próprio arquivo no qual escrevi comandos_git ao add para serem commitados			
+git init  . -> 	                cria um repo git na pasta atual
+git status --> 	                Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo -->        adiciona o arquivo para ser commitado
+git commit -m "ms" -->          faz um commit do que estava para ser commitado  
+git log -->                     mostra Todos o histótico de commit 
+Git add comandos_* --> 	        adicionando tanto os arquivos: comamdos_bash e esse próprio arquivo no qual escrevi comandos_git ao add para serem commitados	
+
+git diff comandos_git.txt -->   O QUE TEM DE DIFERENTE PARA O ESTADO ATUAL DO ARQUIVO para/ em relação ao commit anterior: git diff
+
+
+Git diff . -->          	Diferença para todos os arquivos 
+
+### Comandos 3-aula
+
+#### Resumindo o Fluxo de Trabalho:
+
+1 --Criar o diretório do projeto;
+
+2 -- Iniciar o git dentro do diretório criado (git init .); ###Ponto é a própria pasta atual
+
+3 -- Edita ou cria arquivos;
+
+4 -- git status;
+
+5-- git add <nome_arquivo> // git add . (todos os arquivos do diretório) // git add *.txt (todos os arquivos que terminam com txt); ###Pegar todos os arquivos criados e modificados e prepara lós para o commit 
+
+6-- git status;
+
+7-- git commit -m "Mensagem de modificação do arquivo""; --> snapchot do projeto naquele momento
+
+8 --git status;
+
+9 --volta para o passo 3;		
