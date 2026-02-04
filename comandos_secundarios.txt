@@ -10,3 +10,7 @@ A partir disso, se está na branch secundária. Não mais na Main (Principal)
 
 
 3. git merge (branch_name) -->  Git merge `secundaria` --> Trazendo as alterações da branch secundária para a main	Nada acontece na Branch secundária ao se fazer o merge
+
+
+
+bla blabla de comandos
