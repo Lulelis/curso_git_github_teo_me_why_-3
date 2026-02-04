@@ -1,19 +1,19 @@
 ####Comandos Primordiais em GIT:
 
 
-git init  . -> 	                cria um repo git na pasta atual
-git status --> 	                Mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo -->        adiciona o arquivo para ser commitado
-git commit -m "ms" -->          faz um commit do que estava para ser commitado  
-git log -->                     mostra Todos o histótico de commit 
-Git add comandos_* --> 	        adicionando tanto os arquivos: comamdos_bash e esse próprio arquivo no qual escrevi comandos_git ao add para serem commitados	
+git init  . -> 	              Cria um repo git na pasta atual
+git status --> 	              Mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo -->      Adiciona o arquivo para ser commitado
+git commit -m "ms" -->        Faz um commit do que estava para ser commitado  
+git log -->                   Mostra Todos o histótico de commit 
+Git add comandos_* --> 	      Adicionando tanto os arquivos: comamdos_bash e esse próprio arquivo no qual escrevi comandos_git ao add para serem commitados	
 
-git diff comandos_git.txt -->   O QUE TEM DE DIFERENTE PARA O ESTADO ATUAL DO ARQUIVO para/ em relação ao commit anterior: git diff
+git diff comandos_git.txt --> O QUE TEM DE DIFERENTE PARA O ESTADO ATUAL DO ARQUIVO para/ em relação ao commit anterior: git diff
 
 
-Git diff . -->          	Diferença para todos os arquivos 
+Git diff . -->                Diferença para todos os arquivos 
 
-### Comandos 3-aula
+#### Comandos 3-aula
 
 #### Resumindo o Fluxo de Trabalho:
 
