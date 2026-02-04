@@ -1,3 +1,3 @@
 Nossa mais um arquivo txt vou me perder
 
-Alternado um arquivo que já estava alterado
+Alternado um arquivo que já estava alterado Criando uma situação de conflito entre Branchs
