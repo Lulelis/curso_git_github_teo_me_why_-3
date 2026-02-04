@@ -1,0 +1,9 @@
+### Comandos Secundários de GIT:
+
+
+1. Git checkout -b nome_branch
+
+A partir disso, se está na branch secundária. Não mais na Main (Principal)
+
+
+2. Git branch --> Sinaliza qual branch se está trabalhando
