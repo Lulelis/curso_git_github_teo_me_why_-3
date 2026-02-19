@@ -5,9 +5,12 @@
 - Várias alterações de códigos em um projeto;
 
 - Tomar decisões que são reversíveis
+
 - Voltar o projeto devido a uma tomada de decisão que não quer se seguir
 
 - Trabalhar com muitas pessoas em um mesmo projeto
+
+- Utilizando o VSCODE para centralizar todo o fluxo de comandos git e utilizar o GITFLOW para rotinas de trabalhos coorporativos
 
 <div align="center">
   <img src="teomewhy.png" alt="Git & Github" width="700">
